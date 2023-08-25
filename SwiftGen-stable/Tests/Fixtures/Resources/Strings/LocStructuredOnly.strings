@@ -1,0 +1,5 @@
+"settings.navigation-bar.self" = "Some Reserved Keyword there";
+"settings.navigation-bar.title.even.deeper" = "Settings";
+"settings.user_profile_section.HEADER_TITLE" = "User Profile Settings";
+"settings.user_profile_section.footer_text" = "Here you can change some user profile settings.";
+"settings.user_profile_section.points" = "Welcome %@! You have %d points on your account.";

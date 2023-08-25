@@ -1,0 +1,5 @@
+strings:
+  inputs: input.strings
+  outputs:
+    template: wrongKey
+    output: out.swift

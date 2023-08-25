@@ -1,0 +1,3 @@
+- [ ] Added description
+- [ ] Linked to or created issue
+- [ ] Generated files as described [GENERATE.md](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/GENERATE.md)

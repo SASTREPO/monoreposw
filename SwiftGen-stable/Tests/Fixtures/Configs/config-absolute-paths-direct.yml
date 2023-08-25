@@ -1,0 +1,29 @@
+colors:
+  inputs: /colors/paths
+  outputs:
+    templatePath: /colors/templates.stencil
+    output: /colors/out.swift
+
+fonts:
+  inputs: /fonts/paths
+  outputs:
+    templatePath: /fonts/templates.stencil
+    output: /fonts/out.swift
+
+ib:
+  inputs: /ib/paths
+  outputs:
+    templatePath: /ib/templates.stencil
+    output: /ib/out.swift
+
+strings:
+  inputs: /strings/paths
+  outputs:
+    templatePath: /strings/templates.stencil
+    output: /strings/out.swift
+
+xcassets:
+  inputs: /xcassets/paths
+  outputs:
+    templatePath: /xcassets/templates.stencil
+    output: /xcassets/out.swift

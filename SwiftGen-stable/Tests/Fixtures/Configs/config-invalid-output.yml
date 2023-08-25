@@ -1,0 +1,7 @@
+strings:
+  inputs: input.strings
+  outputs:
+    templateName: template
+    output:
+      - bad
+      - entry

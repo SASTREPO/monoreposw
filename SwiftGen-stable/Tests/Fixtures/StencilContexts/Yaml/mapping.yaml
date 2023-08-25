@@ -1,0 +1,27 @@
+files:
+- documents:
+  - data:
+      car: null
+      foo:
+        bar: "banana"
+        baz: "orange"
+      hello: "world"
+      weight: 3.33e+1
+    metadata:
+      properties:
+        car:
+          type: "Optional"
+        foo:
+          properties:
+            bar:
+              type: "String"
+            baz:
+              type: "String"
+          type: "Dictionary"
+        hello:
+          type: "String"
+        weight:
+          type: "Double"
+      type: "Dictionary"
+  name: "mapping"
+  path: "mapping.yaml"

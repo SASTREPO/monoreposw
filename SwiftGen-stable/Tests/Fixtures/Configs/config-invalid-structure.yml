@@ -1,0 +1,9 @@
+strings:
+  inputs:
+    - one
+    - two: three
+  outputs:
+    templateName: template
+    output:
+      - bad
+      - entry

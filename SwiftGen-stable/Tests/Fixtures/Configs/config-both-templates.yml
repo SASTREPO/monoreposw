@@ -1,0 +1,6 @@
+strings:
+  inputs: input.strings
+  outputs:
+    templatePath: template.swift
+    templateName: template
+    output: out.swift

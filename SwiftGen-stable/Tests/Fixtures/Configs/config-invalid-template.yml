@@ -1,0 +1,7 @@
+strings:
+  inputs: input.strings
+  outputs:
+    templateName:
+     - template1
+     - template2
+    output: out.swift
